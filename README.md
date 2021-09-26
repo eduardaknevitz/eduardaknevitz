@@ -19,7 +19,7 @@
   <img align="right"  height="120" width="120" alt="Duda" src="https://c.tenor.com/ympcCN_fln8AAAAd/baby-yoda-the-mandalorian.gif">
 </div>
   
-##
+
 
  <div> 
   <a href="https://www.instagram.com/eduardaknevitz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
