@@ -1,9 +1,8 @@
 ### Oii! 👋
 
 
-<img align="right"  height="120" width="120" alt="Duda" src="https://c.tenor.com/ympcCN_fln8AAAAd/baby-yoda-the-mandalorian.gif">
 
-##
+<br>
 
 <div> 
   <a href="https://www.linkedin.com/in/eduarda-knevitz-soares-4237b1205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
