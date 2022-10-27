@@ -1,4 +1,3 @@
-### Oii! 👋
 👋 Hello World! I'm Eduarda Knevitz, 24 years old, from Cachoeirinha, RS, Brazil.</br>
 ☕ Currently I work in software development at Quattrus company.</br>
 🏳️ My mother tongue is Portuguese and I'm learning English.</br>
