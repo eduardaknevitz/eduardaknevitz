@@ -2,7 +2,7 @@
 ☕ Currently I work in software development at Quattrus company.</br>
 🏳️ My mother tongue is Portuguese and I'm learning English.</br>
 💻 C# | HTML5 | CSS | JavaScript | ExtJS.</br>
-📈 I'm currently specializing in React.</br>
+📈 I'm currently specializing in React JS.</br>
 
 <div>
   <a href="https://github.com/eduardaknevitz">
