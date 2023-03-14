@@ -1,5 +1,5 @@
 👋 Hello World! I'm Eduarda Knevitz, 24 years old, from Cachoeirinha, RS, Brazil.</br>
-☕ Currently I work in software development at Quattrus company.</br>
+☕ Currently I work in software development at WK JobHub company.</br>
 🏳️ My mother tongue is Portuguese and I'm learning English.</br>
 💻 HTML | CSS | JS | ExtJS | C#</br>
 📈 I'm currently specializing in React JS.</br>
